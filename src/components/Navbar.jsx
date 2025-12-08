@@ -9,7 +9,8 @@ import {
   User
 } from 'lucide-react';
 
-export function Navbar({ currentPage, onNavigate }) {
+export default function Navbar({ currentPage = "dashboard", onNavigate = () => {} }) {
+
 
   const navItems = [
     { id: 'dashboard', label: 'Dashboard', icon: LayoutDashboard },
@@ -23,46 +24,7 @@ export function Navbar({ currentPage, onNavigate }) {
   return (
     <div className="w-full bg-white shadow-sm">
 
-      {/* TOP NAVBAR */}
-      <div style={{ height: '70px' }}>
-        <div className="h-full px-6 flex items-center justify-between max-w-[1400px] mx-auto">
-
-          {/* Logo */}
-          <div className="flex items-center">
-            <div 
-              className="bg-gradient-to-br rounded-lg flex items-center justify-center"
-              style={{ 
-                width: '48px', 
-                height: '48px',
-                background: 'linear-gradient(135deg, #1E88E5 0%, #1565C0 100%)'
-              }}
-            >
-              <span className="text-white">WS</span>
-            </div>
-          </div>
-          
-          {/* Title */}
-          <div className="flex-1 text-center">
-            <h1 style={{ color: '#2E2E2E' }}>Weighing Scale Monitoring Dashboard</h1>
-          </div>
-          
-          {/* User */}
-          <div className="flex items-center gap-3">
-            <span style={{ color: '#2E2E2E' }}>Admin</span>
-            <div 
-              className="rounded-full flex items-center justify-center"
-              style={{ 
-                width: '40px', 
-                height: '40px',
-                backgroundColor: '#E3F2FD'
-              }}
-            >
-              <User size={20} style={{ color: '#1E88E5' }} />
-            </div>
-          </div>
-
-        </div>
-      </div>
+      
 
 
       {/* NAVIGATION TABS */}
