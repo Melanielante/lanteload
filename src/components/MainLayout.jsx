@@ -1,6 +1,6 @@
 // import { useState } from "react";
-import Navbar from "./components/Navbar";
-import { Outlet, useNavigate, useLocation } from "react-router-dom";
+import Navbar from "./Navbar";
+import { Outlet, useNavigate, useLocation } from "react-router";
 
 export default function Layout() {
   const navigate = useNavigate();

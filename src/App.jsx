@@ -1,5 +1,5 @@
 import React from 'react'
-import { MainLayout } from './components/MainLayout'
+
 import Navbar from './components/Navbar'
 import { Route, Routes } from 'react-router'
 import { Dashboard } from './pages/Dashboard'
