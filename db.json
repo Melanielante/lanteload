@@ -29,6 +29,209 @@
       "status": "error",
       "last_weight_reading": 0.0,
       "last_updated": "2025-05-21T12:45:00"
+    },
+   
+    {
+      "scale_id": "SCL004",
+      "location_name": "Nakuru",
+      "latitude": -0.3031,
+      "longitude": 36.0800,
+      "last_maintenance": "2025-04-20",
+      "status": "operational",
+      "last_weight_reading": 987.6,
+      "last_updated": "2025-05-23T11:30:00"
+    },
+    {
+      "scale_id": "SCL005",
+      "location_name": "Eldoret",
+      "latitude": 0.5143,
+      "longitude": 35.2699,
+      "last_maintenance": "2025-03-01",
+      "status": "operational",
+      "last_weight_reading": 567.8,
+      "last_updated": "2025-05-23T09:00:00"
+    },
+    {
+      "scale_id": "SCL006",
+      "location_name": "Thika",
+      "latitude": -1.0470,
+      "longitude": 37.0754,
+      "last_maintenance": "2025-05-05",
+      "status": "operational",
+      "last_weight_reading": 2345.1,
+      "last_updated": "2025-05-22T15:40:00"
+    },
+    {
+      "scale_id": "SCL007",
+      "location_name": "Malindi",
+      "latitude": -3.2185,
+      "longitude": 40.1166,
+      "last_maintenance": "2025-02-10",
+      "status": "operational",
+      "last_weight_reading": 1011.9,
+      "last_updated": "2025-05-23T07:10:00"
+    },
+    {
+      "scale_id": "SCL008",
+      "location_name": "Kitale",
+      "latitude": 1.0232,
+      "longitude": 34.9917,
+      "last_maintenance": "2025-01-25",
+      "status": "offline",
+      "last_weight_reading": 0.0,
+      "last_updated": "2025-05-19T18:00:00"
+    },
+    {
+      "scale_id": "SCL009",
+      "location_name": "Garissa",
+      "latitude": -0.4578,
+      "longitude": 39.6607,
+      "last_maintenance": "2025-03-22",
+      "status": "operational",
+      "last_weight_reading": 789.0,
+      "last_updated": "2025-05-23T14:55:00"
+    },
+    {
+      "scale_id": "SCL010",
+      "location_name": "Kakamega",
+      "latitude": 0.2833,
+      "longitude": 34.7500,
+      "last_maintenance": "2025-04-01",
+      "status": "error",
+      "last_weight_reading": 0.0,
+      "last_updated": "2025-05-21T09:20:00"
+    },
+    {
+      "scale_id": "SCL011",
+      "location_name": "Meru",
+      "latitude": 0.0471,
+      "longitude": 37.6508,
+      "last_maintenance": "2025-05-15",
+      "status": "operational",
+      "last_weight_reading": 1500.2,
+      "last_updated": "2025-05-23T12:05:00"
+    },
+    {
+      "scale_id": "SCL012",
+      "location_name": "Nyeri",
+      "latitude": -0.4208,
+      "longitude": 36.9515,
+      "last_maintenance": "2025-02-05",
+      "status": "operational",
+      "last_weight_reading": 654.3,
+      "last_updated": "2025-05-23T16:15:00"
+    },
+    {
+      "scale_id": "SCL013",
+      "location_name": "Machakos",
+      "latitude": -1.5229,
+      "longitude": 37.2625,
+      "last_maintenance": "2025-03-10",
+      "status": "operational",
+      "last_weight_reading": 1122.3,
+      "last_updated": "2025-05-22T19:30:00"
+    },
+    {
+      "scale_id": "SCL014",
+      "location_name": "Lamu",
+      "latitude": -2.2690,
+      "longitude": 40.9022,
+      "last_maintenance": "2025-04-05",
+      "status": "operational",
+      "last_weight_reading": 300.7,
+      "last_updated": "2025-05-23T06:45:00"
+    },
+    {
+      "scale_id": "SCL015",
+      "location_name": "Voi",
+      "latitude": -3.3985,
+      "longitude": 38.5524,
+      "last_maintenance": "2025-01-15",
+      "status": "error",
+      "last_weight_reading": 0.0,
+      "last_updated": "2025-05-20T11:50:00"
+    },
+    {
+      "scale_id": "SCL016",
+      "location_name": "Wajir",
+      "latitude": 1.7471,
+      "longitude": 40.0558,
+      "last_maintenance": "2025-05-10",
+      "status": "operational",
+      "last_weight_reading": 450.9,
+      "last_updated": "2025-05-23T13:40:00"
+    },
+    {
+      "scale_id": "SCL017",
+      "location_name": "Isiolo",
+      "latitude": 0.3551,
+      "longitude": 37.5857,
+      "last_maintenance": "2025-03-28",
+      "status": "operational",
+      "last_weight_reading": 890.1,
+      "last_updated": "2025-05-22T17:00:00"
+    },
+    {
+      "scale_id": "SCL018",
+      "location_name": "Busia",
+      "latitude": 0.4608,
+      "longitude": 34.0945,
+      "last_maintenance": "2025-04-15",
+      "status": "offline",
+      "last_weight_reading": 0.0,
+      "last_updated": "2025-05-18T10:30:00"
+    },
+    {
+      "scale_id": "SCL019",
+      "location_name": "Homa Bay",
+      "latitude": -0.5284,
+      "longitude": 34.4578,
+      "last_maintenance": "2025-02-20",
+      "status": "operational",
+      "last_weight_reading": 1350.6,
+      "last_updated": "2025-05-23T10:00:00"
+    },
+    {
+      "scale_id": "SCL020",
+      "location_name": "Kericho",
+      "latitude": -0.3667,
+      "longitude": 35.3667,
+      "last_maintenance": "2025-05-01",
+      "status": "operational",
+      "last_weight_reading": 720.5,
+      "last_updated": "2025-05-23T08:35:00"
+    },
+    {
+      "scale_id": "SCL021",
+      "location_name": "Marsabit",
+      "latitude": 2.3274,
+      "longitude": 37.9710,
+      "last_maintenance": "2025-03-05",
+      "status": "operational",
+      "last_weight_reading": 200.4,
+      "last_updated": "2025-05-22T14:10:00"
+    },
+    {
+      "scale_id": "SCL022",
+      "location_name": "Naivasha",
+      "latitude": -0.7136,
+      "longitude": 36.4371,
+      "last_maintenance": "2025-04-25",
+      "status": "error",
+      "last_weight_reading": 0.0,
+      "last_updated": "2025-05-21T16:25:00"
+    },
+    {
+      "scale_id": "SCL023",
+      "location_name": "Taveta",
+      "latitude": -3.3937,
+      "longitude": 37.6698,
+      "last_maintenance": "2025-01-01",
+      "status": "operational",
+      "last_weight_reading": 1800.0,
+      "last_updated": "2025-05-23T15:00:00"
     }
   ]
 }
+  
+
