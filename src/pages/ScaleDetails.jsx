@@ -7,7 +7,7 @@ import { ScaleChart } from "../components/ScaleChart";
 import { ScaleMap } from "../components/ScaleMap";
 
 export function ScaleDetails() {
-  const { scale_id } = useParams();
+  const { id } = useParams();
   const navigate = useNavigate();
 
   const [scale, setScale] = useState(null);
@@ -18,7 +18,7 @@ export function ScaleDetails() {
   useEffect(() => {
     async function fetchScale() {
       try {
-        const res = await fetch(`http://localhost:5000/scales/${scale_id}`);
+        const res = await fetch(`http://localhost:5000/scales/${id}`);
         if (!res.ok) throw new Error("Scale not found");
         const data = await res.json();
         setScale(data);
@@ -43,7 +43,7 @@ export function ScaleDetails() {
     }
 
     fetchScale();
-  }, [scale_id]);
+  }, [id]);
 
   if (loading) return <div className="px-6 py-6">Loading scale details...</div>;
   if (!scale) return <div className="px-6 py-6">Scale not found.</div>;
@@ -67,7 +67,7 @@ export function ScaleDetails() {
         <button
           className="px-4 py-2 rounded-lg text-white"
           style={{ backgroundColor: "#25A4A8", fontSize: "14px" }}
-          onClick={() => navigate(`/scales/${scale_id}/schedule`)}
+          onClick={() => navigate(`/scales/${id}/schedule`)}
         >
           Schedule Maintenance
         </button>
