@@ -8,8 +8,7 @@
       "last_maintenance": "2025-04-10",
       "status": "operational",
       "last_weight_reading": 1234.5,
-      "last_updated": "2025-05-23T10:20:00",
-      "id": "7ce5"
+      "last_updated": "2025-05-23T10:20:00"
     },
     {
       "scale_id": "SCL002",
@@ -18,218 +17,198 @@
       "longitude": 39.6682,
       "last_maintenance": "2025-03-15",
       "status": "offline",
-      "last_weight_reading": 0,
-      "last_updated": "2025-05-20T08:15:00",
-      "id": "4877"
+      "last_weight_reading": 0.0,
+      "last_updated": "2025-05-20T08:15:00"
     },
     {
       "scale_id": "SCL003",
       "location_name": "Kisumu",
       "latitude": -0.0917,
       "longitude": 34.7679,
-      "last_maintenance": "2025-02-28",
-      "status": "error",
-      "last_weight_reading": 0,
-      "last_updated": "2025-05-21T12:45:00",
-      "id": "2145"
+      "last_maintenance": "2025-07-18",
+      "status": "operational",
+      "last_weight_reading": 2914.6,
+      "last_updated": "2025-12-08T12:20:14"
     },
     {
       "scale_id": "SCL004",
       "location_name": "Nakuru",
       "latitude": -0.3031,
       "longitude": 36.08,
-      "last_maintenance": "2025-04-20",
+      "last_maintenance": "2025-07-04",
       "status": "operational",
-      "last_weight_reading": 987.6,
-      "last_updated": "2025-05-23T11:30:00",
-      "id": "6be6"
+      "last_weight_reading": 500.0,
+      "last_updated": "2025-12-07T01:20:14"
     },
     {
       "scale_id": "SCL005",
       "location_name": "Eldoret",
       "latitude": 0.5143,
       "longitude": 35.2699,
-      "last_maintenance": "2025-03-01",
-      "status": "operational",
-      "last_weight_reading": 567.8,
-      "last_updated": "2025-05-23T09:00:00",
-      "id": "0567"
+      "last_maintenance": "2025-07-14",
+      "status": "error",
+      "last_weight_reading": 0.0,
+      "last_updated": "2025-12-08T02:20:14"
     },
     {
       "scale_id": "SCL006",
       "location_name": "Thika",
       "latitude": -1.047,
       "longitude": 37.0754,
-      "last_maintenance": "2025-05-05",
-      "status": "operational",
-      "last_weight_reading": 2345.1,
-      "last_updated": "2025-05-22T15:40:00",
-      "id": "238e"
+      "last_maintenance": "2025-08-21",
+      "status": "error",
+      "last_weight_reading": 0.0,
+      "last_updated": "2025-12-08T03:20:14"
     },
     {
       "scale_id": "SCL007",
       "location_name": "Malindi",
       "latitude": -3.2185,
       "longitude": 40.1166,
-      "last_maintenance": "2025-02-10",
-      "status": "operational",
-      "last_weight_reading": 1011.9,
-      "last_updated": "2025-05-23T07:10:00",
-      "id": "e208"
+      "last_maintenance": "2025-07-01",
+      "status": "error",
+      "last_weight_reading": 0.0,
+      "last_updated": "2025-12-09T06:20:14"
     },
     {
       "scale_id": "SCL008",
       "location_name": "Kitale",
       "latitude": 1.0232,
       "longitude": 34.9917,
-      "last_maintenance": "2025-01-25",
-      "status": "offline",
-      "last_weight_reading": 0,
-      "last_updated": "2025-05-19T18:00:00",
-      "id": "6cce"
+      "last_maintenance": "2025-09-08",
+      "status": "operational",
+      "last_weight_reading": 2012.9,
+      "last_updated": "2025-12-06T21:20:14"
     },
     {
       "scale_id": "SCL009",
       "location_name": "Garissa",
       "latitude": -0.4578,
       "longitude": 39.6607,
-      "last_maintenance": "2025-03-22",
+      "last_maintenance": "2025-10-14",
       "status": "operational",
-      "last_weight_reading": 789,
-      "last_updated": "2025-05-23T14:55:00",
-      "id": "6938"
+      "last_weight_reading": 926.4,
+      "last_updated": "2025-12-08T12:20:14"
     },
     {
       "scale_id": "SCL010",
       "location_name": "Kakamega",
       "latitude": 0.2833,
       "longitude": 34.75,
-      "last_maintenance": "2025-04-01",
-      "status": "error",
-      "last_weight_reading": 0,
-      "last_updated": "2025-05-21T09:20:00",
-      "id": "8e1f"
+      "last_maintenance": "2025-04-30",
+      "status": "operational",
+      "last_weight_reading": 2772.7,
+      "last_updated": "2025-12-07T00:20:14"
     },
     {
       "scale_id": "SCL011",
       "location_name": "Meru",
       "latitude": 0.0471,
       "longitude": 37.6508,
-      "last_maintenance": "2025-05-15",
+      "last_maintenance": "2025-04-22",
       "status": "operational",
-      "last_weight_reading": 1500.2,
-      "last_updated": "2025-05-23T12:05:00",
-      "id": "bb55"
+      "last_weight_reading": 2803.7,
+      "last_updated": "2025-12-07T16:20:14"
     },
     {
       "scale_id": "SCL012",
       "location_name": "Nyeri",
       "latitude": -0.4208,
       "longitude": 36.9515,
-      "last_maintenance": "2025-02-05",
+      "last_maintenance": "2025-09-28",
       "status": "operational",
-      "last_weight_reading": 654.3,
-      "last_updated": "2025-05-23T16:15:00",
-      "id": "4e59"
+      "last_weight_reading": 1883.1,
+      "last_updated": "2025-12-07T20:20:14"
     },
     {
       "scale_id": "SCL013",
       "location_name": "Machakos",
       "latitude": -1.5229,
       "longitude": 37.2625,
-      "last_maintenance": "2025-03-10",
-      "status": "operational",
-      "last_weight_reading": 1122.3,
-      "last_updated": "2025-05-22T19:30:00",
-      "id": "f3ab"
+      "last_maintenance": "2025-06-30",
+      "status": "offline",
+      "last_weight_reading": 0.0,
+      "last_updated": "2025-12-10T03:20:14"
     },
     {
       "scale_id": "SCL014",
       "location_name": "Lamu",
       "latitude": -2.269,
       "longitude": 40.9022,
-      "last_maintenance": "2025-04-05",
+      "last_maintenance": "2025-08-17",
       "status": "operational",
-      "last_weight_reading": 300.7,
-      "last_updated": "2025-05-23T06:45:00",
-      "id": "7b1a"
+      "last_weight_reading": 1963.6,
+      "last_updated": "2025-12-09T07:20:14"
     },
     {
       "scale_id": "SCL015",
       "location_name": "Voi",
       "latitude": -3.3985,
       "longitude": 38.5524,
-      "last_maintenance": "2025-01-15",
-      "status": "error",
-      "last_weight_reading": 0,
-      "last_updated": "2025-05-20T11:50:00",
-      "id": "7f46"
+      "last_maintenance": "2025-08-04",
+      "status": "offline",
+      "last_weight_reading": 0.0,
+      "last_updated": "2025-12-10T06:20:14"
     },
     {
       "scale_id": "SCL016",
       "location_name": "Wajir",
       "latitude": 1.7471,
       "longitude": 40.0558,
-      "last_maintenance": "2025-05-10",
+      "last_maintenance": "2025-09-26",
       "status": "operational",
-      "last_weight_reading": 450.9,
-      "last_updated": "2025-05-23T13:40:00",
-      "id": "f95a"
+      "last_weight_reading": 1317.5,
+      "last_updated": "2025-12-08T06:20:14"
     },
     {
       "scale_id": "SCL017",
       "location_name": "Isiolo",
       "latitude": 0.3551,
       "longitude": 37.5857,
-      "last_maintenance": "2025-03-28",
+      "last_maintenance": "2025-05-14",
       "status": "operational",
-      "last_weight_reading": 890.1,
-      "last_updated": "2025-05-22T17:00:00",
-      "id": "8a70"
+      "last_weight_reading": 2554.6,
+      "last_updated": "2025-12-06T08:20:14"
     },
     {
       "scale_id": "SCL018",
       "location_name": "Busia",
       "latitude": 0.4608,
       "longitude": 34.0945,
-      "last_maintenance": "2025-04-15",
-      "status": "offline",
-      "last_weight_reading": 0,
-      "last_updated": "2025-05-18T10:30:00",
-      "id": "ff13"
+      "last_maintenance": "2025-04-28",
+      "status": "operational",
+      "last_weight_reading": 436.5,
+      "last_updated": "2025-12-06T14:20:14"
     },
     {
       "scale_id": "SCL019",
       "location_name": "Homa Bay",
       "latitude": -0.5284,
       "longitude": 34.4578,
-      "last_maintenance": "2025-02-20",
+      "last_maintenance": "2025-05-30",
       "status": "operational",
-      "last_weight_reading": 1350.6,
-      "last_updated": "2025-05-23T10:00:00",
-      "id": "17dd"
+      "last_weight_reading": 1162.6,
+      "last_updated": "2025-12-08T22:20:14"
     },
     {
       "scale_id": "SCL020",
       "location_name": "Kericho",
       "latitude": -0.3667,
       "longitude": 35.3667,
-      "last_maintenance": "2025-05-01",
-      "status": "operational",
-      "last_weight_reading": 720.5,
-      "last_updated": "2025-05-23T08:35:00",
-      "id": "87b3"
+      "last_maintenance": "2025-07-28",
+      "status": "offline",
+      "last_weight_reading": 0.0,
+      "last_updated": "2025-12-06T15:20:14"
     },
     {
       "scale_id": "SCL021",
       "location_name": "Marsabit",
       "latitude": 2.3274,
       "longitude": 37.971,
-      "last_maintenance": "2025-03-05",
-      "status": "operational",
-      "last_weight_reading": 200.4,
-      "last_updated": "2025-05-22T14:10:00",
-      "id": "3fa7"
+      "last_maintenance": "2025-05-31",
+      "status": "error",
+      "last_weight_reading": 0.0,
+      "last_updated": "2025-12-09T02:20:14"
     },
     {
       "scale_id": "SCL022",
@@ -237,15 +216,14 @@
       "latitude": -0.7136,
       "longitude": 36.4371,
       "last_maintenance": "2025-04-25",
-      "status": "error",
-      "last_weight_reading": 0,
-      "last_updated": "2025-05-21T16:25:00",
-      "id": "3591"
+      "status": "operational",
+      "last_weight_reading": 420.1,
+      "last_updated": "2025-12-07T17:20:14"
     }
   ],
   "upcomingMaintenance": [
     {
-      "id": "1",
+      "id": 1,
       "scaleId": "SCL001",
       "location": "Nairobi",
       "type": "Routine Check",
@@ -254,7 +232,7 @@
       "technician": "John Doe"
     },
     {
-      "id": "2",
+      "id": 2,
       "scaleId": "SCL002",
       "location": "Mombasa",
       "type": "Calibration",
@@ -263,199 +241,189 @@
       "technician": "Jane Smith"
     },
     {
-      "id": "3",
-      "scaleId": "SCL004",
-      "location": "Nakuru",
-      "type": "Software Update",
-      "date": "2025-12-10",
-      "time": "08:30 AM",
-      "technician": "Mark Lee"
-    },
-    {
-      "id": "4",
-      "scaleId": "SCL005",
-      "location": "Eldoret",
-      "type": "Battery Replacement",
-      "date": "2025-12-22",
-      "time": "11:00 AM",
-      "technician": "Sarah Connor"
-    },
-    {
-      "id": "5",
-      "scaleId": "SCL006",
-      "location": "Thika",
-      "type": "Routine Check",
-      "date": "2025-12-12",
-      "time": "01:00 PM",
-      "technician": "David King"
-    },
-    {
-      "id": "6",
-      "scaleId": "SCL007",
-      "location": "Malindi",
-      "type": "Calibration",
-      "date": "2025-12-28",
-      "time": "09:00 AM",
-      "technician": "Linda White"
-    },
-    {
-      "id": "7",
-      "scaleId": "SCL009",
-      "location": "Garissa",
-      "type": "Sensor Cleaning",
-      "date": "2025-12-16",
-      "time": "03:30 PM",
-      "technician": "John Doe"
-    },
-    {
-      "id": "8",
-      "scaleId": "SCL011",
-      "location": "Meru",
-      "type": "Routine Check",
-      "date": "2025-12-11",
-      "time": "10:00 AM",
+      "id": 3,
+      "scaleId": "SCL016",
+      "location": "Wajir",
+      "type": "Repair",
+      "date": "2025-12-19",
+      "time": "08:15 AM",
       "technician": "Jane Smith"
     },
     {
-      "id": "9",
-      "scaleId": "SCL012",
-      "location": "Nyeri",
-      "type": "Cable Inspection",
-      "date": "2025-12-24",
-      "time": "08:00 AM",
-      "technician": "Mark Lee"
-    },
-    {
-      "id": "10",
-      "scaleId": "SCL013",
-      "location": "Machakos",
-      "type": "Calibration",
+      "id": 4,
+      "scaleId": "SCL001",
+      "location": "Nairobi",
+      "type": "Sensor Cleaning",
       "date": "2025-12-20",
-      "time": "02:30 PM",
-      "technician": "Sarah Connor"
+      "time": "08:15 AM",
+      "technician": "John Doe"
     },
     {
-      "id": "11",
-      "scaleId": "SCL014",
-      "location": "Lamu",
-      "type": "Routine Check",
-      "date": "2025-12-17",
-      "time": "09:30 AM",
-      "technician": "David King"
+      "id": 5,
+      "scaleId": "SCL016",
+      "location": "Wajir",
+      "type": "Sensor Cleaning",
+      "date": "2025-12-21",
+      "time": "16:00 AM",
+      "technician": "Jane Smith"
     },
     {
-      "id": "12",
+      "id": 6,
       "scaleId": "SCL016",
       "location": "Wajir",
       "type": "Software Update",
-      "date": "2025-12-29",
-      "time": "11:30 AM",
-      "technician": "Linda White"
-    },
-    {
-      "id": "13",
-      "scaleId": "SCL017",
-      "location": "Isiolo",
-      "type": "Battery Replacement",
-      "date": "2025-12-13",
-      "time": "04:00 PM",
+      "date": "2025-12-22",
+      "time": "09:30 AM",
       "technician": "John Doe"
     },
     {
-      "id": "14",
-      "scaleId": "SCL019",
-      "location": "Homa Bay",
-      "type": "Routine Check",
-      "date": "2025-12-23",
-      "time": "01:00 PM",
-      "technician": "Jane Smith"
-    },
-    {
-      "id": "15",
-      "scaleId": "SCL020",
-      "location": "Kericho",
+      "id": 7,
+      "scaleId": "SCL004",
+      "location": "Nakuru",
       "type": "Calibration",
-      "date": "2025-12-19",
-      "time": "10:30 AM",
-      "technician": "Mark Lee"
+      "date": "2025-12-23",
+      "time": "13:15 AM",
+      "technician": "John Doe"
     },
     {
-      "id": "16",
-      "scaleId": "SCL021",
-      "location": "Marsabit",
-      "type": "Sensor Cleaning",
-      "date": "2025-12-26",
-      "time": "09:00 AM",
-      "technician": "Sarah Connor"
-    },
-    {
-      "id": "17",
-      "scaleId": "SCL003",
-      "location": "Kisumu",
-      "type": "Repair Assessment",
-      "date": "2025-12-10",
-      "time": "09:00 AM",
-      "technician": "David King"
-    },
-    {
-      "id": "18",
-      "scaleId": "SCL015",
-      "location": "Voi",
-      "type": "Error Diagnosis",
-      "date": "2025-12-14",
-      "time": "08:00 AM",
-      "technician": "Linda White"
-    },
-    {
-      "id": "19",
+      "id": 8,
       "scaleId": "SCL022",
       "location": "Naivasha",
-      "type": "Repair",
-      "date": "2025-12-21",
-      "time": "03:00 PM",
-      "technician": "John Doe"
-    },
-    {
-      "id": "20",
-      "scaleId": "SCL008",
-      "location": "Kitale",
-      "type": "Power Restoration",
-      "date": "2025-12-27",
-      "time": "10:00 AM",
-      "technician": "Jane Smith"
-    },
-    {
-      "id": "21",
-      "scaleId": "SCL018",
-      "location": "Busia",
-      "type": "Offline Troubleshooting",
-      "date": "2025-12-30",
-      "time": "01:30 PM",
+      "type": "Software Update",
+      "date": "2025-12-24",
+      "time": "13:00 AM",
       "technician": "Mark Lee"
     },
     {
-      "id": "22",
-      "scaleId": "SCL010",
-      "location": "Kakamega",
-      "type": "Error Resolution",
-      "date": "2025-12-31",
-      "time": "09:00 AM",
-      "technician": "Sarah Connor"
+      "id": 9,
+      "scaleId": "SCL007",
+      "location": "Malindi",
+      "type": "Sensor Cleaning",
+      "date": "2025-12-25",
+      "time": "11:30 AM",
+      "technician": "Jane Smith"
     },
     {
-      "id": "13df",
-      "scaleId": "",
-      "location": "",
-      "type": "",
-      "date": "",
-      "time": "",
-      "technician": "",
-      "priority": "low"
+      "id": 10,
+      "scaleId": "SCL016",
+      "location": "Wajir",
+      "type": "Software Update",
+      "date": "2025-12-26",
+      "time": "14:30 AM",
+      "technician": "Mark Lee"
+    },
+    {
+      "id": 11,
+      "scaleId": "SCL011",
+      "location": "Meru",
+      "type": "Routine Check",
+      "date": "2025-12-27",
+      "time": "12:45 AM",
+      "technician": "Jane Smith"
+    },
+    {
+      "id": 12,
+      "scaleId": "SCL017",
+      "location": "Isiolo",
+      "type": "Sensor Cleaning",
+      "date": "2025-12-28",
+      "time": "16:00 AM",
+      "technician": "Mark Lee"
+    },
+    {
+      "id": 13,
+      "scaleId": "SCL008",
+      "location": "Kitale",
+      "type": "Sensor Cleaning",
+      "date": "2025-12-29",
+      "time": "10:00 AM",
+      "technician": "Mark Lee"
+    },
+    {
+      "id": 14,
+      "scaleId": "SCL014",
+      "location": "Lamu",
+      "type": "Software Update",
+      "date": "2025-12-30",
+      "time": "11:15 AM",
+      "technician": "John Doe"
+    },
+    {
+      "id": 15,
+      "scaleId": "SCL013",
+      "location": "Machakos",
+      "type": "Routine Check",
+      "date": "2025-12-31",
+      "time": "09:45 AM",
+      "technician": "Mark Lee"
+    },
+    {
+      "id": 16,
+      "scaleId": "SCL018",
+      "location": "Busia",
+      "type": "Calibration",
+      "date": "2026-01-01",
+      "time": "10:30 AM",
+      "technician": "Jane Smith"
+    },
+    {
+      "id": 17,
+      "scaleId": "SCL003",
+      "location": "Kisumu",
+      "type": "Calibration",
+      "date": "2026-01-02",
+      "time": "08:00 AM",
+      "technician": "Mark Lee"
+    },
+    {
+      "id": 18,
+      "scaleId": "SCL002",
+      "location": "Mombasa",
+      "type": "Repair",
+      "date": "2026-01-03",
+      "time": "15:15 AM",
+      "technician": "Mark Lee"
+    },
+    {
+      "id": 19,
+      "scaleId": "SCL016",
+      "location": "Wajir",
+      "type": "Repair",
+      "date": "2026-01-04",
+      "time": "13:15 AM",
+      "technician": "John Doe"
+    },
+    {
+      "id": 20,
+      "scaleId": "SCL004",
+      "location": "Nakuru",
+      "type": "Sensor Cleaning",
+      "date": "2026-01-05",
+      "time": "15:15 AM",
+      "technician": "Mark Lee"
+    },
+    {
+      "id": 21,
+      "scaleId": "SCL002",
+      "location": "Mombasa",
+      "type": "Software Update",
+      "date": "2026-01-06",
+      "time": "09:45 AM",
+      "technician": "Mark Lee"
+    },
+    {
+      "id": 22,
+      "scaleId": "SCL016",
+      "location": "Wajir",
+      "type": "Software Update",
+      "date": "2026-01-07",
+      "time": "09:45 AM",
+      "technician": "Mark Lee"
     }
   ],
   "overdueMaintenance": [
     {
-      "id": "1",
+      "id": 1,
       "scaleId": "SCL003",
       "location": "Kisumu",
       "type": "Repair",
@@ -464,7 +432,7 @@
       "priority": "high"
     },
     {
-      "id": "2",
+      "id": 2,
       "scaleId": "SCL010",
       "location": "Kakamega",
       "type": "Calibration",
@@ -473,464 +441,1614 @@
       "priority": "medium"
     },
     {
-      "id": "3",
-      "scaleId": "SCL008",
-      "location": "Kitale",
-      "type": "Power Issue",
-      "dueDate": "2025-11-15",
-      "daysOverdue": 24,
-      "priority": "high"
-    },
-    {
-      "id": "4",
-      "scaleId": "SCL018",
-      "location": "Busia",
-      "type": "Connectivity Fix",
-      "dueDate": "2025-11-01",
-      "daysOverdue": 38,
-      "priority": "medium"
-    },
-    {
-      "id": "5",
-      "scaleId": "SCL015",
-      "location": "Voi",
-      "type": "Error Code 404",
-      "dueDate": "2025-10-20",
-      "daysOverdue": 50,
-      "priority": "high"
-    },
-    {
-      "id": "6",
+      "id": 3,
       "scaleId": "SCL022",
       "location": "Naivasha",
-      "type": "Sensor Replacement",
-      "dueDate": "2025-11-10",
-      "daysOverdue": 29,
-      "priority": "low"
-    },
-    {
-      "id": "7",
-      "scaleId": "SCL001",
-      "location": "Nairobi",
-      "type": "Annual Calibration",
-      "dueDate": "2025-11-15",
-      "daysOverdue": 24,
-      "priority": "medium"
-    },
-    {
-      "id": "8",
-      "scaleId": "SCL005",
-      "location": "Eldoret",
-      "type": "Firmware Update",
-      "dueDate": "2025-10-28",
-      "daysOverdue": 41,
-      "priority": "low"
-    },
-    {
-      "id": "9",
-      "scaleId": "SCL017",
-      "location": "Isiolo",
       "type": "Routine Check",
-      "dueDate": "2025-11-05",
-      "daysOverdue": 34,
-      "priority": "medium"
-    },
-    {
-      "id": "10",
-      "scaleId": "SCL006",
-      "location": "Thika",
-      "type": "Load Cell Check",
-      "dueDate": "2025-10-15",
-      "daysOverdue": 55,
-      "priority": "high"
-    },
-    {
-      "id": "11",
-      "scaleId": "SCL011",
-      "location": "Meru",
-      "type": "Display Repair",
-      "dueDate": "2025-11-20",
-      "daysOverdue": 19,
-      "priority": "medium"
-    },
-    {
-      "id": "12",
-      "scaleId": "SCL016",
-      "location": "Wajir",
-      "type": "Communication Module",
-      "dueDate": "2025-10-01",
-      "daysOverdue": 69,
-      "priority": "high"
-    },
-    {
-      "id": "13",
-      "scaleId": "SCL012",
-      "location": "Nyeri",
-      "type": "Cable Replacement",
-      "dueDate": "2025-11-03",
-      "daysOverdue": 36,
+      "dueDate": "2025-11-18",
+      "daysOverdue": 22,
       "priority": "low"
     },
     {
-      "id": "14",
-      "scaleId": "SCL007",
-      "location": "Malindi",
-      "type": "Humidity Damage",
-      "dueDate": "2025-10-10",
-      "daysOverdue": 60,
-      "priority": "high"
-    },
-    {
-      "id": "15",
-      "scaleId": "SCL009",
-      "location": "Garissa",
-      "type": "Dust Cleaning",
-      "dueDate": "2025-11-27",
-      "daysOverdue": 12,
+      "id": 4,
+      "scaleId": "SCL018",
+      "location": "Busia",
+      "type": "Software Update",
+      "dueDate": "2025-11-16",
+      "daysOverdue": 24,
       "priority": "low"
     },
     {
-      "id": "16",
-      "scaleId": "SCL014",
-      "location": "Lamu",
-      "type": "Saltwater Corrosion",
-      "dueDate": "2025-10-25",
-      "daysOverdue": 45,
+      "id": 5,
+      "scaleId": "SCL010",
+      "location": "Kakamega",
+      "type": "Calibration",
+      "dueDate": "2025-11-14",
+      "daysOverdue": 26,
+      "priority": "high"
+    },
+    {
+      "id": 6,
+      "scaleId": "SCL015",
+      "location": "Voi",
+      "type": "Calibration",
+      "dueDate": "2025-11-12",
+      "daysOverdue": 28,
       "priority": "medium"
     },
     {
-      "id": "17",
+      "id": 7,
       "scaleId": "SCL019",
       "location": "Homa Bay",
-      "type": "Annual Check",
-      "dueDate": "2025-11-08",
-      "daysOverdue": 31,
-      "priority": "low"
+      "type": "Repair",
+      "dueDate": "2025-11-10",
+      "daysOverdue": 30,
+      "priority": "medium"
     },
     {
-      "id": "18",
+      "id": 8,
       "scaleId": "SCL002",
       "location": "Mombasa",
-      "type": "Offline Diagnosis",
-      "dueDate": "2025-11-29",
-      "daysOverdue": 10,
-      "priority": "high"
-    },
-    {
-      "id": "19",
-      "scaleId": "SCL013",
-      "location": "Machakos",
-      "type": "Recalibration",
-      "dueDate": "2025-11-07",
+      "type": "Software Update",
+      "dueDate": "2025-11-08",
       "daysOverdue": 32,
       "priority": "medium"
     },
     {
-      "id": "20",
+      "id": 9,
+      "scaleId": "SCL016",
+      "location": "Wajir",
+      "type": "Routine Check",
+      "dueDate": "2025-11-06",
+      "daysOverdue": 34,
+      "priority": "high"
+    },
+    {
+      "id": 10,
+      "scaleId": "SCL015",
+      "location": "Voi",
+      "type": "Software Update",
+      "dueDate": "2025-11-04",
+      "daysOverdue": 36,
+      "priority": "high"
+    },
+    {
+      "id": 11,
+      "scaleId": "SCL016",
+      "location": "Wajir",
+      "type": "Sensor Cleaning",
+      "dueDate": "2025-11-02",
+      "daysOverdue": 38,
+      "priority": "medium"
+    },
+    {
+      "id": 12,
       "scaleId": "SCL020",
       "location": "Kericho",
-      "type": "Software Reinstall",
-      "dueDate": "2025-10-18",
+      "type": "Routine Check",
+      "dueDate": "2025-10-31",
+      "daysOverdue": 40,
+      "priority": "medium"
+    },
+    {
+      "id": 13,
+      "scaleId": "SCL017",
+      "location": "Isiolo",
+      "type": "Software Update",
+      "dueDate": "2025-10-29",
+      "daysOverdue": 42,
+      "priority": "low"
+    },
+    {
+      "id": 14,
+      "scaleId": "SCL012",
+      "location": "Nyeri",
+      "type": "Software Update",
+      "dueDate": "2025-10-27",
+      "daysOverdue": 44,
+      "priority": "medium"
+    },
+    {
+      "id": 15,
+      "scaleId": "SCL015",
+      "location": "Voi",
+      "type": "Routine Check",
+      "dueDate": "2025-10-25",
+      "daysOverdue": 46,
+      "priority": "high"
+    },
+    {
+      "id": 16,
+      "scaleId": "SCL022",
+      "location": "Naivasha",
+      "type": "Sensor Cleaning",
+      "dueDate": "2025-10-23",
+      "daysOverdue": 48,
+      "priority": "high"
+    },
+    {
+      "id": 17,
+      "scaleId": "SCL002",
+      "location": "Mombasa",
+      "type": "Calibration",
+      "dueDate": "2025-10-21",
+      "daysOverdue": 50,
+      "priority": "low"
+    },
+    {
+      "id": 18,
+      "scaleId": "SCL011",
+      "location": "Meru",
+      "type": "Repair",
+      "dueDate": "2025-10-19",
       "daysOverdue": 52,
       "priority": "low"
     },
     {
-      "id": "21",
-      "scaleId": "SCL004",
-      "location": "Nakuru",
-      "type": "Load Sensor Check",
-      "dueDate": "2025-11-22",
-      "daysOverdue": 17,
+      "id": 19,
+      "scaleId": "SCL011",
+      "location": "Meru",
+      "type": "Software Update",
+      "dueDate": "2025-10-17",
+      "daysOverdue": 54,
       "priority": "medium"
     },
     {
-      "id": "22",
-      "scaleId": "SCL021",
-      "location": "Marsabit",
-      "type": "Minor Repair",
-      "dueDate": "2025-11-26",
-      "daysOverdue": 13,
+      "id": 20,
+      "scaleId": "SCL003",
+      "location": "Kisumu",
+      "type": "Repair",
+      "dueDate": "2025-10-15",
+      "daysOverdue": 56,
+      "priority": "high"
+    },
+    {
+      "id": 21,
+      "scaleId": "SCL022",
+      "location": "Naivasha",
+      "type": "Routine Check",
+      "dueDate": "2025-10-13",
+      "daysOverdue": 58,
+      "priority": "high"
+    },
+    {
+      "id": 22,
+      "scaleId": "SCL012",
+      "location": "Nyeri",
+      "type": "Calibration",
+      "dueDate": "2025-10-11",
+      "daysOverdue": 60,
       "priority": "low"
     }
   ],
   "calendar": [
     {
-      "id": "1",
+      "id": 1,
       "date": 1,
       "day": "Mon",
       "tasks": 2
     },
     {
-      "id": "2",
+      "id": 2,
       "date": 2,
       "day": "Tue",
       "tasks": 0
     },
     {
-      "id": "3",
+      "id": 3,
       "date": 3,
       "day": "Wed",
       "tasks": 1
     },
     {
-      "id": "4",
+      "id": 4,
       "date": 4,
-      "day": "Thu",
-      "tasks": 3
-    },
-    {
-      "id": "5",
-      "date": 5,
-      "day": "Fri",
+      "day": "Sun",
       "tasks": 4
     },
     {
-      "id": "6",
+      "id": 5,
+      "date": 5,
+      "day": "Mon",
+      "tasks": 0
+    },
+    {
+      "id": 6,
       "date": 6,
+      "day": "Tue",
+      "tasks": 2
+    },
+    {
+      "id": 7,
+      "date": 7,
+      "day": "Wed",
+      "tasks": 4
+    },
+    {
+      "id": 8,
+      "date": 8,
+      "day": "Thu",
+      "tasks": 0
+    },
+    {
+      "id": 9,
+      "date": 9,
+      "day": "Fri",
+      "tasks": 1
+    },
+    {
+      "id": 10,
+      "date": 10,
       "day": "Sat",
       "tasks": 0
     },
     {
-      "id": "7",
-      "date": 7,
+      "id": 11,
+      "date": 11,
       "day": "Sun",
+      "tasks": 5
+    },
+    {
+      "id": 12,
+      "date": 12,
+      "day": "Mon",
+      "tasks": 3
+    },
+    {
+      "id": 13,
+      "date": 13,
+      "day": "Tue",
+      "tasks": 2
+    },
+    {
+      "id": 14,
+      "date": 14,
+      "day": "Wed",
       "tasks": 1
     },
     {
-      "id": "8",
-      "date": 8,
+      "id": 15,
+      "date": 15,
+      "day": "Thu",
+      "tasks": 4
+    },
+    {
+      "id": 16,
+      "date": 16,
+      "day": "Fri",
+      "tasks": 1
+    },
+    {
+      "id": 17,
+      "date": 17,
+      "day": "Sat",
+      "tasks": 1
+    },
+    {
+      "id": 18,
+      "date": 18,
+      "day": "Sun",
+      "tasks": 4
+    },
+    {
+      "id": 19,
+      "date": 19,
       "day": "Mon",
       "tasks": 2
     },
     {
-      "id": "9",
-      "date": 9,
+      "id": 20,
+      "date": 20,
       "day": "Tue",
       "tasks": 5
     },
     {
-      "id": "10",
-      "date": 10,
-      "day": "Wed",
-      "tasks": 3
-    },
-    {
-      "id": "11",
-      "date": 11,
-      "day": "Thu",
-      "tasks": 1
-    },
-    {
-      "id": "12",
-      "date": 12,
-      "day": "Fri",
-      "tasks": 2
-    },
-    {
-      "id": "13",
-      "date": 13,
-      "day": "Sat",
-      "tasks": 0
-    },
-    {
-      "id": "14",
-      "date": 14,
-      "day": "Sun",
-      "tasks": 0
-    },
-    {
-      "id": "15",
-      "date": 15,
-      "day": "Mon",
-      "tasks": 4
-    },
-    {
-      "id": "16",
-      "date": 16,
-      "day": "Tue",
-      "tasks": 2
-    },
-    {
-      "id": "17",
-      "date": 17,
-      "day": "Wed",
-      "tasks": 3
-    },
-    {
-      "id": "18",
-      "date": 18,
-      "day": "Thu",
-      "tasks": 1
-    },
-    {
-      "id": "19",
-      "date": 19,
-      "day": "Fri",
-      "tasks": 4
-    },
-    {
-      "id": "20",
-      "date": 20,
-      "day": "Sat",
-      "tasks": 1
-    },
-    {
-      "id": "21",
+      "id": 21,
       "date": 21,
-      "day": "Sun",
-      "tasks": 2
-    },
-    {
-      "id": "22",
-      "date": 22,
-      "day": "Mon",
-      "tasks": 3
-    },
-    {
-      "id": "23",
-      "date": 23,
-      "day": "Tue",
+      "day": "Wed",
       "tasks": 0
+    },
+    {
+      "id": 22,
+      "date": 22,
+      "day": "Thu",
+      "tasks": 4
+    },
+    {
+      "id": 23,
+      "date": 23,
+      "day": "Fri",
+      "tasks": 4
     }
   ],
   "technicians": [
     {
-      "id": "1",
+      "id": 1,
       "name": "John Doe",
       "status": "available",
       "tasks": 3
     },
     {
-      "id": "2",
+      "id": 2,
       "name": "Jane Smith",
       "status": "busy",
       "tasks": 5
     },
     {
-      "id": "3",
+      "id": 3,
       "name": "Mark Lee",
       "status": "available",
       "tasks": 1
     },
     {
-      "id": "4",
+      "id": 4,
       "name": "Sarah Connor",
-      "status": "busy",
-      "tasks": 4
-    },
-    {
-      "id": "5",
-      "name": "David King",
-      "status": "available",
-      "tasks": 2
-    },
-    {
-      "id": "6",
-      "name": "Linda White",
       "status": "available",
       "tasks": 3
     },
     {
-      "id": "7",
-      "name": "Peter Green",
-      "status": "busy",
-      "tasks": 6
+      "id": 5,
+      "name": "David King",
+      "status": "available",
+      "tasks": 3
     },
     {
-      "id": "8",
+      "id": 6,
+      "name": "Linda White",
+      "status": "available",
+      "tasks": 1
+    },
+    {
+      "id": 7,
+      "name": "Peter Green",
+      "status": "busy",
+      "tasks": 3
+    },
+    {
+      "id": 8,
       "name": "Grace Kelly",
       "status": "available",
       "tasks": 2
     },
     {
-      "id": "9",
+      "id": 9,
       "name": "Tom Hanks",
-      "status": "busy",
-      "tasks": 5
+      "status": "available",
+      "tasks": 2
     },
     {
-      "id": "10",
+      "id": 10,
       "name": "Amy Adams",
       "status": "available",
-      "tasks": 1
-    },
-    {
-      "id": "11",
-      "name": "Ben Chan",
-      "status": "busy",
       "tasks": 3
     },
     {
-      "id": "12",
-      "name": "Cathy Dunn",
-      "status": "available",
+      "id": 11,
+      "name": "Ben Chan",
+      "status": "busy",
       "tasks": 4
     },
     {
-      "id": "13",
+      "id": 12,
+      "name": "Cathy Dunn",
+      "status": "available",
+      "tasks": 2
+    },
+    {
+      "id": 13,
       "name": "Eric Fox",
       "status": "busy",
       "tasks": 2
     },
     {
-      "id": "14",
+      "id": 14,
       "name": "Fiona Giles",
-      "status": "available",
-      "tasks": 1
+      "status": "busy",
+      "tasks": 3
     },
     {
-      "id": "15",
+      "id": 15,
       "name": "Gary Holt",
-      "status": "busy",
+      "status": "available",
       "tasks": 5
     },
     {
-      "id": "16",
+      "id": 16,
       "name": "Helen Ivy",
       "status": "available",
       "tasks": 3
     },
     {
-      "id": "17",
+      "id": 17,
       "name": "Ian Jones",
-      "status": "busy",
-      "tasks": 4
-    },
-    {
-      "id": "18",
-      "name": "Kelly Lane",
-      "status": "available",
-      "tasks": 2
-    },
-    {
-      "id": "19",
-      "name": "Leo Mann",
-      "status": "busy",
-      "tasks": 6
-    },
-    {
-      "id": "20",
-      "name": "Mia Neal",
-      "status": "available",
-      "tasks": 1
-    },
-    {
-      "id": "21",
-      "name": "Nick Olsen",
       "status": "busy",
       "tasks": 3
     },
     {
-      "id": "22",
-      "name": "Pam Ryan",
-      "status": "available",
-      "tasks": 5
-    },
-    {
-      "id": "23",
-      "name": "Quinn Scott",
+      "id": 18,
+      "name": "Kelly Lane",
       "status": "busy",
       "tasks": 2
+    },
+    {
+      "id": 19,
+      "name": "Leo Mann",
+      "status": "available",
+      "tasks": 2
+    },
+    {
+      "id": 20,
+      "name": "Mia Neal",
+      "status": "busy",
+      "tasks": 4
+    },
+    {
+      "id": 21,
+      "name": "Nick Olsen",
+      "status": "available",
+      "tasks": 6
+    },
+    {
+      "id": 22,
+      "name": "Pam Ryan",
+      "status": "available",
+      "tasks": 1
+    },
+    {
+      "id": 23,
+      "name": "Quinn Scott",
+      "status": "busy",
+      "tasks": 1
     }
-  ]
+  ],
+  "weightVolume": [
+    {
+      "id": 1,
+      "month": "Jun",
+      "volume": 1250000
+    },
+    {
+      "id": 2,
+      "month": "Jul",
+      "volume": 1380000
+    },
+    {
+      "id": 3,
+      "month": "Aug",
+      "volume": 1520000
+    },
+    {
+      "id": 4,
+      "month": "Sep",
+      "volume": 1450000
+    },
+    {
+      "id": 5,
+      "month": "Oct",
+      "volume": 1690000
+    },
+    {
+      "id": 6,
+      "month": "Nov",
+      "volume": 1820000
+    },
+    {
+      "id": 7,
+      "month": "Dec",
+      "volume": 1950000
+    },
+    {
+      "id": 8,
+      "month": "Jan",
+      "volume": 1887856
+    },
+    {
+      "id": 9,
+      "month": "Feb",
+      "volume": 1808604
+    },
+    {
+      "id": 10,
+      "month": "Mar",
+      "volume": 1789044
+    },
+    {
+      "id": 11,
+      "month": "Apr",
+      "volume": 1847623
+    },
+    {
+      "id": 12,
+      "month": "May",
+      "volume": 1824882
+    },
+    {
+      "id": 13,
+      "month": "Jun",
+      "volume": 1822705
+    },
+    {
+      "id": 14,
+      "month": "Jul",
+      "volume": 1843315
+    },
+    {
+      "id": 15,
+      "month": "Aug",
+      "volume": 1921707
+    },
+    {
+      "id": 16,
+      "month": "Sep",
+      "volume": 1900017
+    },
+    {
+      "id": 17,
+      "month": "Oct",
+      "volume": 1952409
+    },
+    {
+      "id": 18,
+      "month": "Nov",
+      "volume": 1957438
+    },
+    {
+      "id": 19,
+      "month": "Dec",
+      "volume": 1977549
+    },
+    {
+      "id": 20,
+      "month": "Jan",
+      "volume": 1955333
+    },
+    {
+      "id": 21,
+      "month": "Feb",
+      "volume": 2000261
+    },
+    {
+      "id": 22,
+      "month": "Mar",
+      "volume": 1953167
+    },
+    {
+      "id": 23,
+      "month": "Apr",
+      "volume": 1918776
+    },
+    {
+      "id": 24,
+      "month": "May",
+      "volume": 1926224
+    },
+    {
+      "id": 25,
+      "month": "Jun",
+      "volume": 1980507
+    },
+    {
+      "id": 26,
+      "month": "Jul",
+      "volume": 1985451
+    },
+    {
+      "id": 27,
+      "month": "Aug",
+      "volume": 1944633
+    }
+  ],
+  "downtime": [
+    {
+      "id": 1,
+      "scale": "WB-001",
+      "hours": 2.5
+    },
+    {
+      "id": 2,
+      "scale": "WB-003",
+      "hours": 12.8
+    },
+    {
+      "id": 3,
+      "scale": "WB-004",
+      "hours": 48.2
+    },
+    {
+      "id": 4,
+      "scale": "WB-007",
+      "hours": 8.4
+    },
+    {
+      "id": 5,
+      "scale": "WB-010",
+      "hours": 24.6
+    },
+    {
+      "id": 6,
+      "scale": "WB-011",
+      "hours": 56.1
+    },
+    {
+      "id": 7,
+      "scale": "WB-012",
+      "hours": 17.1
+    },
+    {
+      "id": 8,
+      "scale": "WB-013",
+      "hours": 27.6
+    },
+    {
+      "id": 9,
+      "scale": "WB-014",
+      "hours": 48.7
+    },
+    {
+      "id": 10,
+      "scale": "WB-015",
+      "hours": 7.0
+    },
+    {
+      "id": 11,
+      "scale": "WB-016",
+      "hours": 13.0
+    },
+    {
+      "id": 12,
+      "scale": "WB-017",
+      "hours": 35.7
+    },
+    {
+      "id": 13,
+      "scale": "WB-018",
+      "hours": 59.8
+    },
+    {
+      "id": 14,
+      "scale": "WB-019",
+      "hours": 4.4
+    },
+    {
+      "id": 15,
+      "scale": "WB-020",
+      "hours": 23.4
+    },
+    {
+      "id": 16,
+      "scale": "WB-021",
+      "hours": 35.5
+    },
+    {
+      "id": 17,
+      "scale": "WB-022",
+      "hours": 4.6
+    },
+    {
+      "id": 18,
+      "scale": "WB-023",
+      "hours": 20.8
+    },
+    {
+      "id": 19,
+      "scale": "WB-024",
+      "hours": 44.4
+    },
+    {
+      "id": 20,
+      "scale": "WB-025",
+      "hours": 4.3
+    },
+    {
+      "id": 21,
+      "scale": "WB-026",
+      "hours": 16.7
+    },
+    {
+      "id": 22,
+      "scale": "WB-027",
+      "hours": 4.0
+    },
+    {
+      "id": 23,
+      "scale": "WB-028",
+      "hours": 54.2
+    },
+    {
+      "id": 24,
+      "scale": "WB-029",
+      "hours": 20.0
+    },
+    {
+      "id": 25,
+      "scale": "WB-030",
+      "hours": 5.3
+    }
+  ],
+  "systemStatus": [
+    {
+      "id": 1,
+      "name": "Operational",
+      "value": 79,
+      "color": "#059669"
+    },
+    {
+      "id": 2,
+      "name": "Offline",
+      "value": 15,
+      "color": "#DC2626"
+    },
+    {
+      "id": 3,
+      "name": "Error",
+      "value": 6,
+      "color": "#EA580C"
+    },
+    {
+      "id": 4,
+      "name": "Pending Check",
+      "value": 1,
+      "color": "#14B8A6"
+    },
+    {
+      "id": 5,
+      "name": "Low Battery",
+      "value": 4,
+      "color": "#EC4899"
+    },
+    {
+      "id": 6,
+      "name": "Sensor Error",
+      "value": 2,
+      "color": "#EC4899"
+    },
+    {
+      "id": 7,
+      "name": "Network Lag",
+      "value": 10,
+      "color": "#6366F1"
+    },
+    {
+      "id": 8,
+      "name": "Firmware Outdated",
+      "value": 5,
+      "color": "#F97316"
+    },
+    {
+      "id": 9,
+      "name": "Overload Detected",
+      "value": 6,
+      "color": "#EC4899"
+    },
+    {
+      "id": 10,
+      "name": "Calibration Required",
+      "value": 10,
+      "color": "#14B8A6"
+    },
+    {
+      "id": 11,
+      "name": "Power Fluctuation",
+      "value": 6,
+      "color": "#EC4899"
+    },
+    {
+      "id": 12,
+      "name": "Database Sync Error",
+      "value": 7,
+      "color": "#EC4899"
+    },
+    {
+      "id": 13,
+      "name": "Access Denied",
+      "value": 10,
+      "color": "#6366F1"
+    },
+    {
+      "id": 14,
+      "name": "High Temp",
+      "value": 7,
+      "color": "#6366F1"
+    },
+    {
+      "id": 15,
+      "name": "Maintenance Mode",
+      "value": 1,
+      "color": "#F97316"
+    },
+    {
+      "id": 16,
+      "name": "Idle",
+      "value": 2,
+      "color": "#EC4899"
+    },
+    {
+      "id": 17,
+      "name": "System Restart",
+      "value": 1,
+      "color": "#EC4899"
+    },
+    {
+      "id": 18,
+      "name": "Minor Glitch",
+      "value": 4,
+      "color": "#6366F1"
+    },
+    {
+      "id": 19,
+      "name": "High Latency",
+      "value": 4,
+      "color": "#6366F1"
+    },
+    {
+      "id": 20,
+      "name": "Storage Full",
+      "value": 4,
+      "color": "#14B8A6"
+    },
+    {
+      "id": 21,
+      "name": "Security Alert",
+      "value": 5,
+      "color": "#F97316"
+    },
+    {
+      "id": 22,
+      "name": "Backup Running",
+      "value": 4,
+      "color": "#6366F1"
+    },
+    {
+      "id": 23,
+      "name": "Ready for Dispatch",
+      "value": 4,
+      "color": "#F97316"
+    }
+  ],
+  "kpis": [
+    {
+      "id": 1,
+      "title": "Total Weight Processed",
+      "value": "11.06M kg",
+      "change": "+12.3%",
+      "trend": "up"
+    },
+    {
+      "id": 2,
+      "title": "Average Uptime",
+      "value": "96.4%",
+      "change": "+2.1%",
+      "trend": "up"
+    },
+    {
+      "id": 3,
+      "title": "Average Response Time",
+      "value": "1.2s",
+      "change": "-0.3s",
+      "trend": "up"
+    },
+    {
+      "id": 4,
+      "title": "Error Rate",
+      "value": "2.8%",
+      "change": "-1.2%",
+      "trend": "down"
+    },
+    {
+      "id": 5,
+      "title": "Average Downtime (Hours) (5)",
+      "value": "4.1hr",
+      "change": "+0.5hr",
+      "trend": "up"
+    },
+    {
+      "id": 6,
+      "title": "Throughput Efficiency (6)",
+      "value": "73.9%",
+      "change": "-3.6%",
+      "trend": "down"
+    },
+    {
+      "id": 7,
+      "title": "Scale Utilization (7)",
+      "value": "95.6%",
+      "change": "+2.3%",
+      "trend": "up"
+    },
+    {
+      "id": 8,
+      "title": "Preventive Maint. Rate (8)",
+      "value": "17.4M kg",
+      "change": "-1.5%",
+      "trend": "down"
+    },
+    {
+      "id": 9,
+      "title": "First-Time Fix Rate (9)",
+      "value": "83.6%",
+      "change": "+0.4%",
+      "trend": "up"
+    },
+    {
+      "id": 10,
+      "title": "Average Downtime (Hours) (10)",
+      "value": "1.7hr",
+      "change": "-0.4hr",
+      "trend": "neutral"
+    },
+    {
+      "id": 11,
+      "title": "Throughput Efficiency (11)",
+      "value": "97.6%",
+      "change": "-4.1%",
+      "trend": "up"
+    },
+    {
+      "id": 12,
+      "title": "Scale Utilization (12)",
+      "value": "4.1s",
+      "change": "+0.2s",
+      "trend": "up"
+    },
+    {
+      "id": 13,
+      "title": "Preventive Maint. Rate (13)",
+      "value": "3.5s",
+      "change": "-0.3s",
+      "trend": "up"
+    },
+    {
+      "id": 14,
+      "title": "First-Time Fix Rate (14)",
+      "value": "13.67M kg",
+      "change": "-2.1%",
+      "trend": "down"
+    },
+    {
+      "id": 15,
+      "title": "Average Downtime (Hours) (15)",
+      "value": "98.8%",
+      "change": "+2.4%",
+      "trend": "up"
+    },
+    {
+      "id": 16,
+      "title": "Throughput Efficiency (16)",
+      "value": "1.9hr",
+      "change": "-0.2hr",
+      "trend": "up"
+    },
+    {
+      "id": 17,
+      "title": "Scale Utilization (17)",
+      "value": "4.4s",
+      "change": "+0.1s",
+      "trend": "neutral"
+    },
+    {
+      "id": 18,
+      "title": "Preventive Maint. Rate (18)",
+      "value": "14.65M kg",
+      "change": "+3.0%",
+      "trend": "up"
+    },
+    {
+      "id": 19,
+      "title": "First-Time Fix Rate (19)",
+      "value": "85.8%",
+      "change": "+1.9%",
+      "trend": "up"
+    },
+    {
+      "id": 20,
+      "title": "Average Downtime (Hours) (20)",
+      "value": "4.3hr",
+      "change": "+0.4hr",
+      "trend": "up"
+    },
+    {
+      "id": 21,
+      "title": "Throughput Efficiency (21)",
+      "value": "2.8s",
+      "change": "+0.4s",
+      "trend": "down"
+    },
+    {
+      "id": 22,
+      "title": "Scale Utilization (22)",
+      "value": "95.6%",
+      "change": "-1.8%",
+      "trend": "down"
+    },
+    {
+      "id": 23,
+      "title": "Preventive Maint. Rate (23)",
+      "value": "81.9%",
+      "change": "+1.6%",
+      "trend": "neutral"
+    },
+    {
+      "id": 24,
+      "title": "First-Time Fix Rate (24)",
+      "value": "3.4hr",
+      "change": "+0.4hr",
+      "trend": "up"
+    }
+  ],
+  "analytics": {
+    "weightVolume": [
+      {
+        "id": 1,
+        "month": "Jun",
+        "volume": 1250000
+      },
+      {
+        "id": 2,
+        "month": "Jul",
+        "volume": 1380000
+      },
+      {
+        "id": 3,
+        "month": "Aug",
+        "volume": 1520000
+      },
+      {
+        "id": 4,
+        "month": "Sep",
+        "volume": 1450000
+      },
+      {
+        "id": 5,
+        "month": "Oct",
+        "volume": 1690000
+      },
+      {
+        "id": 6,
+        "month": "Nov",
+        "volume": 1820000
+      },
+      {
+        "id": 7,
+        "month": "Dec",
+        "volume": 1950000
+      },
+      {
+        "id": 8,
+        "month": "Jan",
+        "volume": 1887856
+      },
+      {
+        "id": 9,
+        "month": "Feb",
+        "volume": 1808604
+      },
+      {
+        "id": 10,
+        "month": "Mar",
+        "volume": 1789044
+      },
+      {
+        "id": 11,
+        "month": "Apr",
+        "volume": 1847623
+      },
+      {
+        "id": 12,
+        "month": "May",
+        "volume": 1824882
+      },
+      {
+        "id": 13,
+        "month": "Jun",
+        "volume": 1822705
+      },
+      {
+        "id": 14,
+        "month": "Jul",
+        "volume": 1843315
+      },
+      {
+        "id": 15,
+        "month": "Aug",
+        "volume": 1921707
+      },
+      {
+        "id": 16,
+        "month": "Sep",
+        "volume": 1900017
+      },
+      {
+        "id": 17,
+        "month": "Oct",
+        "volume": 1952409
+      },
+      {
+        "id": 18,
+        "month": "Nov",
+        "volume": 1957438
+      },
+      {
+        "id": 19,
+        "month": "Dec",
+        "volume": 1977549
+      },
+      {
+        "id": 20,
+        "month": "Jan",
+        "volume": 1955333
+      },
+      {
+        "id": 21,
+        "month": "Feb",
+        "volume": 2000261
+      },
+      {
+        "id": 22,
+        "month": "Mar",
+        "volume": 1953167
+      },
+      {
+        "id": 23,
+        "month": "Apr",
+        "volume": 1918776
+      },
+      {
+        "id": 24,
+        "month": "May",
+        "volume": 1926224
+      },
+      {
+        "id": 25,
+        "month": "Jun",
+        "volume": 1980507
+      },
+      {
+        "id": 26,
+        "month": "Jul",
+        "volume": 1985451
+      },
+      {
+        "id": 27,
+        "month": "Aug",
+        "volume": 1944633
+      }
+    ],
+    "downtime": [
+      {
+        "id": 1,
+        "scale": "WB-001",
+        "hours": 2.5
+      },
+      {
+        "id": 2,
+        "scale": "WB-003",
+        "hours": 12.8
+      },
+      {
+        "id": 3,
+        "scale": "WB-004",
+        "hours": 48.2
+      },
+      {
+        "id": 4,
+        "scale": "WB-007",
+        "hours": 8.4
+      },
+      {
+        "id": 5,
+        "scale": "WB-010",
+        "hours": 24.6
+      },
+      {
+        "id": 6,
+        "scale": "WB-011",
+        "hours": 56.1
+      },
+      {
+        "id": 7,
+        "scale": "WB-012",
+        "hours": 17.1
+      },
+      {
+        "id": 8,
+        "scale": "WB-013",
+        "hours": 27.6
+      },
+      {
+        "id": 9,
+        "scale": "WB-014",
+        "hours": 48.7
+      },
+      {
+        "id": 10,
+        "scale": "WB-015",
+        "hours": 7.0
+      },
+      {
+        "id": 11,
+        "scale": "WB-016",
+        "hours": 13.0
+      },
+      {
+        "id": 12,
+        "scale": "WB-017",
+        "hours": 35.7
+      },
+      {
+        "id": 13,
+        "scale": "WB-018",
+        "hours": 59.8
+      },
+      {
+        "id": 14,
+        "scale": "WB-019",
+        "hours": 4.4
+      },
+      {
+        "id": 15,
+        "scale": "WB-020",
+        "hours": 23.4
+      },
+      {
+        "id": 16,
+        "scale": "WB-021",
+        "hours": 35.5
+      },
+      {
+        "id": 17,
+        "scale": "WB-022",
+        "hours": 4.6
+      },
+      {
+        "id": 18,
+        "scale": "WB-023",
+        "hours": 20.8
+      },
+      {
+        "id": 19,
+        "scale": "WB-024",
+        "hours": 44.4
+      },
+      {
+        "id": 20,
+        "scale": "WB-025",
+        "hours": 4.3
+      },
+      {
+        "id": 21,
+        "scale": "WB-026",
+        "hours": 16.7
+      },
+      {
+        "id": 22,
+        "scale": "WB-027",
+        "hours": 4.0
+      },
+      {
+        "id": 23,
+        "scale": "WB-028",
+        "hours": 54.2
+      },
+      {
+        "id": 24,
+        "scale": "WB-029",
+        "hours": 20.0
+      },
+      {
+        "id": 25,
+        "scale": "WB-030",
+        "hours": 5.3
+      }
+    ],
+    "systemStatus": [
+      {
+        "id": 1,
+        "name": "Operational",
+        "value": 79,
+        "color": "#059669"
+      },
+      {
+        "id": 2,
+        "name": "Offline",
+        "value": 15,
+        "color": "#DC2626"
+      },
+      {
+        "id": 3,
+        "name": "Error",
+        "value": 6,
+        "color": "#EA580C"
+      },
+      {
+        "id": 4,
+        "name": "Pending Check",
+        "value": 1,
+        "color": "#14B8A6"
+      },
+      {
+        "id": 5,
+        "name": "Low Battery",
+        "value": 4,
+        "color": "#EC4899"
+      },
+      {
+        "id": 6,
+        "name": "Sensor Error",
+        "value": 2,
+        "color": "#EC4899"
+      },
+      {
+        "id": 7,
+        "name": "Network Lag",
+        "value": 10,
+        "color": "#6366F1"
+      },
+      {
+        "id": 8,
+        "name": "Firmware Outdated",
+        "value": 5,
+        "color": "#F97316"
+      },
+      {
+        "id": 9,
+        "name": "Overload Detected",
+        "value": 6,
+        "color": "#EC4899"
+      },
+      {
+        "id": 10,
+        "name": "Calibration Required",
+        "value": 10,
+        "color": "#14B8A6"
+      },
+      {
+        "id": 11,
+        "name": "Power Fluctuation",
+        "value": 6,
+        "color": "#EC4899"
+      },
+      {
+        "id": 12,
+        "name": "Database Sync Error",
+        "value": 7,
+        "color": "#EC4899"
+      },
+      {
+        "id": 13,
+        "name": "Access Denied",
+        "value": 10,
+        "color": "#6366F1"
+      },
+      {
+        "id": 14,
+        "name": "High Temp",
+        "value": 7,
+        "color": "#6366F1"
+      },
+      {
+        "id": 15,
+        "name": "Maintenance Mode",
+        "value": 1,
+        "color": "#F97316"
+      },
+      {
+        "id": 16,
+        "name": "Idle",
+        "value": 2,
+        "color": "#EC4899"
+      },
+      {
+        "id": 17,
+        "name": "System Restart",
+        "value": 1,
+        "color": "#EC4899"
+      },
+      {
+        "id": 18,
+        "name": "Minor Glitch",
+        "value": 4,
+        "color": "#6366F1"
+      },
+      {
+        "id": 19,
+        "name": "High Latency",
+        "value": 4,
+        "color": "#6366F1"
+      },
+      {
+        "id": 20,
+        "name": "Storage Full",
+        "value": 4,
+        "color": "#14B8A6"
+      },
+      {
+        "id": 21,
+        "name": "Security Alert",
+        "value": 5,
+        "color": "#F97316"
+      },
+      {
+        "id": 22,
+        "name": "Backup Running",
+        "value": 4,
+        "color": "#6366F1"
+      },
+      {
+        "id": 23,
+        "name": "Ready for Dispatch",
+        "value": 4,
+        "color": "#F97316"
+      }
+    ],
+    "kpis": [
+      {
+        "id": 1,
+        "title": "Total Weight Processed",
+        "value": "11.06M kg",
+        "change": "+12.3%",
+        "trend": "up"
+      },
+      {
+        "id": 2,
+        "title": "Average Uptime",
+        "value": "96.4%",
+        "change": "+2.1%",
+        "trend": "up"
+      },
+      {
+        "id": 3,
+        "title": "Average Response Time",
+        "value": "1.2s",
+        "change": "-0.3s",
+        "trend": "up"
+      },
+      {
+        "id": 4,
+        "title": "Error Rate",
+        "value": "2.8%",
+        "change": "-1.2%",
+        "trend": "down"
+      },
+      {
+        "id": 5,
+        "title": "Average Downtime (Hours) (5)",
+        "value": "4.1hr",
+        "change": "+0.5hr",
+        "trend": "up"
+      },
+      {
+        "id": 6,
+        "title": "Throughput Efficiency (6)",
+        "value": "73.9%",
+        "change": "-3.6%",
+        "trend": "down"
+      },
+      {
+        "id": 7,
+        "title": "Scale Utilization (7)",
+        "value": "95.6%",
+        "change": "+2.3%",
+        "trend": "up"
+      },
+      {
+        "id": 8,
+        "title": "Preventive Maint. Rate (8)",
+        "value": "17.4M kg",
+        "change": "-1.5%",
+        "trend": "down"
+      },
+      {
+        "id": 9,
+        "title": "First-Time Fix Rate (9)",
+        "value": "83.6%",
+        "change": "+0.4%",
+        "trend": "up"
+      },
+      {
+        "id": 10,
+        "title": "Average Downtime (Hours) (10)",
+        "value": "1.7hr",
+        "change": "-0.4hr",
+        "trend": "neutral"
+      },
+      {
+        "id": 11,
+        "title": "Throughput Efficiency (11)",
+        "value": "97.6%",
+        "change": "-4.1%",
+        "trend": "up"
+      },
+      {
+        "id": 12,
+        "title": "Scale Utilization (12)",
+        "value": "4.1s",
+        "change": "+0.2s",
+        "trend": "up"
+      },
+      {
+        "id": 13,
+        "title": "Preventive Maint. Rate (13)",
+        "value": "3.5s",
+        "change": "-0.3s",
+        "trend": "up"
+      },
+      {
+        "id": 14,
+        "title": "First-Time Fix Rate (14)",
+        "value": "13.67M kg",
+        "change": "-2.1%",
+        "trend": "down"
+      },
+      {
+        "id": 15,
+        "title": "Average Downtime (Hours) (15)",
+        "value": "98.8%",
+        "change": "+2.4%",
+        "trend": "up"
+      },
+      {
+        "id": 16,
+        "title": "Throughput Efficiency (16)",
+        "value": "1.9hr",
+        "change": "-0.2hr",
+        "trend": "up"
+      },
+      {
+        "id": 17,
+        "title": "Scale Utilization (17)",
+        "value": "4.4s",
+        "change": "+0.1s",
+        "trend": "neutral"
+      },
+      {
+        "id": 18,
+        "title": "Preventive Maint. Rate (18)",
+        "value": "14.65M kg",
+        "change": "+3.0%",
+        "trend": "up"
+      },
+      {
+        "id": 19,
+        "title": "First-Time Fix Rate (19)",
+        "value": "85.8%",
+        "change": "+1.9%",
+        "trend": "up"
+      },
+      {
+        "id": 20,
+        "title": "Average Downtime (Hours) (20)",
+        "value": "4.3hr",
+        "change": "+0.4hr",
+        "trend": "up"
+      },
+      {
+        "id": 21,
+        "title": "Throughput Efficiency (21)",
+        "value": "2.8s",
+        "change": "+0.4s",
+        "trend": "down"
+      },
+      {
+        "id": 22,
+        "title": "Scale Utilization (22)",
+        "value": "95.6%",
+        "change": "-1.8%",
+        "trend": "down"
+      },
+      {
+        "id": 23,
+        "title": "Preventive Maint. Rate (23)",
+        "value": "81.9%",
+        "change": "+1.6%",
+        "trend": "neutral"
+      },
+      {
+        "id": 24,
+        "title": "First-Time Fix Rate (24)",
+        "value": "3.4hr",
+        "change": "+0.4hr",
+        "trend": "up"
+      }
+    ]
+  }
 }

@@ -15,7 +15,7 @@ import {
   Cell,
 } from "recharts";
 
-export default function AnalyticsPage() {
+export default function Analytics() {
   const [weightVolumeData, setWeightVolumeData] = useState([]);
   const [downtimeData, setDowntimeData] = useState([]);
   const [errorRateData, setErrorRateData] = useState([]);
