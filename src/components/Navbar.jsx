@@ -10,10 +10,10 @@ export default function Navbar() {
   const navItems = [
     { id: "/dashboard", label: "Dashboard", icon: LayoutDashboard },
     { id: "/scales", label: "Scales", icon: Scale },
-    { id: "/map", label: "Map", icon: Map },
+    // { id: "/map", label: "Map", icon: Map },
     { id: "/analytics", label: "Analytics", icon: TrendingUp },
     { id: "/maintenance", label: "Maintenance", icon: Wrench },
-    { id: "/settings", label: "Settings", icon: Settings },
+    // { id: "/settings", label: "Settings", icon: Settings },
   ];
 
   return (
