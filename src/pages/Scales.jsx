@@ -31,7 +31,7 @@ export function Scales({ onViewScale }) {
   useEffect(() => {
     async function fetchScales() {
       try {
-        const res = await fetch("http://localhost:5000/scales");
+        const res = await fetch("https://json-server-olgr.onrender.com/scales");
         const data = await res.json();
         setScales(data);
       } catch (err) {

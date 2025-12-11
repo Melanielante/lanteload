@@ -24,7 +24,7 @@ export default function Analytics() {
   useEffect(() => {
     async function fetchAnalytics() {
       try {
-        const res = await fetch("http://localhost:5000/analytics");
+        const res = await fetch("https://json-server-olgr.onrender.com/analytics");
         if (!res.ok) throw new Error("Failed to fetch analytics");
 
         const data = await res.json();

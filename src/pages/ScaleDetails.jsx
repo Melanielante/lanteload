@@ -18,7 +18,7 @@ export function ScaleDetails() {
   useEffect(() => {
     async function fetchScale() {
       try {
-        const res = await fetch(`http://localhost:5000/scales/${id}`);
+        const res = await fetch(`https://json-server-olgr.onrender.com/scales/${id}`);
         if (!res.ok) throw new Error("Scale not found");
         const data = await res.json();
         setScale(data);

@@ -36,7 +36,7 @@ export function InteractiveMap({ onViewScale }) {
   // Fetch scales from JSON Server
   const fetchScales = async () => {
     try {
-      const res = await fetch("http://localhost:5000/scales");
+      const res = await fetch("https://json-server-olgr.onrender.com/scales");
       const data = await res.json();
       setScales(data);
     } catch (err) {

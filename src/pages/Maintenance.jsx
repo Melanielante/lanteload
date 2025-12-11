@@ -18,7 +18,7 @@ export function Maintenance() {
     priority: "low"
   });
 
-  const API = "http://localhost:5000";
+  const API = "https://json-server-olgr.onrender.com";
 
   // Fetch all data
   const fetchAll = async () => {
